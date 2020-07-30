@@ -1,0 +1,31 @@
+
+#navBarContainer{
+    background-color: #0b0c10;
+    position: relative;
+    width: 100%;
+    padding: 20px;
+
+    margin-bottom: 4em;
+}
+
+.navBar{
+    
+    background-color: #0b0c10;
+}
+
+.navBar ul{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.navBar li{
+    text-decoration: none;
+    list-style: none;
+
+    color: #c5c6c7;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+    float:left;
+    margin-right: 3em;
+}
